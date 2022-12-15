@@ -6,6 +6,7 @@ https://github.com/divanov11/Django-To-Do-list-with-user-authentication
 *python ==3.7 or up and django == 3 or up*
 ## Installing
 open terminal and type 
+
     git clone https://github.com/getroundintheseason/Django-todo-app.git
     cd Django-todo-app
     pip3 install -r requirements.txt
