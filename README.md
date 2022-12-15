@@ -2,6 +2,24 @@
 # reference
 https://github.com/divanov11/Django-To-Do-list-with-user-authentication
 
+# Getting Started
+*python ==3.7 or up and django == 3 or up*
+## Installing
+open terminal and type 
+    git clone https://github.com/getroundintheseason/Django-todo-app.git
+    cd Django-todo-app
+    pip3 install -r requirements.txt
+
+## Migrate the database
+    python3 manage.py makemigrations
+    python3 manage.py migrate
+    
+## Create admin account
+    python3 manage.py createsuperuser
+
+## Run the website!!
+    python3 manage.py runserver
+
 # Register User
 可以提供使用者註冊及登入帳號
     
